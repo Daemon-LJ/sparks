@@ -37,3 +37,7 @@ resources
 * markdown在IDEA中如何完成预览
 * 添加gradle、spring boot、spring的框架
 * 添加包结构目录的构建
+* 完成mybatis与spring的整合。  
+**** 完成自动生成框架rp-genera的加入。  
+**** 完成markdown的学习以及整理，整理好README.md文件。  
+**** 完成git的整理和使用场景综合整理。  
