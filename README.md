@@ -10,3 +10,5 @@
 #[历史提交轨迹]<br/>
 >*完成README.MD的模板制作。<br/>
 >*markdown在IDEA中如何完成预览。<br/>
+>*添加gradle、spring boot、spring的框架<br/>
+>*添加包结构目录的构建<br/>
